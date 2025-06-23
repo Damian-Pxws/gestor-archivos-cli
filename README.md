@@ -1,8 +1,10 @@
 
 # 📁 Gestor de Archivos CLI
 
-Gestor de archivos desde la terminal con Python.  
-Permite listar, copiar, mover, borrar archivos y crear carpetas de forma sencilla.
+- Dificultad: **Baja**
+- Lenguaje: `Python`
+- Descripción: Gestor de archivos desde la terminal con Python.  
+               Aplicación CLI para listar, copiar, mover, borrar archivos y crear carpetas de forma local.
 
 
 ## 📂 Estructura del Proyecto
