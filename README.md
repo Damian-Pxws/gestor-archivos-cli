@@ -51,4 +51,11 @@ python3 main.py
 
 ---
 
+## 📜 Licencia
+
+Este proyecto está licenciado bajo la **Apache 2.0 License**.  
+Consulta el archivo [LICENSE](./LICENSE) para más detalles.
+
+---
+
 Proyecto Día 1 de 365 días subiendo proyectos – Gestión diaria de proyectos 
